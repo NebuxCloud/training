@@ -1,8 +1,8 @@
 <p align="center">
     <a href="https://nebux.cloud">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="assets/logotype_light.svg">
-            <img alt="Nebux logo" src="assets/logotype_dark.svg" height="60px">
+            <source media="(prefers-color-scheme: dark)" srcset="https://nebux.cloud/assets/brand/imagotype_light.svg">
+            <img alt="Nebux logo" src="https://nebux.cloud/assets/brand/imagotype_dark.svg" height="60px">
         </picture>
     </a>
 </p>
